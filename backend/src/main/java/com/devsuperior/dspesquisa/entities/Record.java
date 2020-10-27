@@ -103,16 +103,5 @@ public class Record implements Serializable {
 			return false;
 		return true;
 	}
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
-	
-	
->>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
-=======
-
-	
-	
->>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
 }

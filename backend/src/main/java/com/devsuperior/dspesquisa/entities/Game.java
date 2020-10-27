@@ -30,14 +30,6 @@ public class Game implements Serializable {
 	@JoinColumn(name = "genre_id")
 	private Genre genre;
 	
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-	
->>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
-=======
-	
->>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
 	@OneToMany(mappedBy = "game")
 	private List<Record> records = new ArrayList<>();
 	

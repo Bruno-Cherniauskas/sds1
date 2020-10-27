@@ -21,8 +21,7 @@
 
 	<dependencies>
 		<dependency>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-web</artifactId>
 </dependency>
@@ -53,13 +52,10 @@
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-security</artifactId>
 </dependency>
-=======
-=======
->>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -86,10 +82,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-<<<<<<< HEAD
->>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
-=======
->>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
