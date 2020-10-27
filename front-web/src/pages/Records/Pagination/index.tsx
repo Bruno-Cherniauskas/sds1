@@ -9,6 +9,10 @@ type Props = {
 
 const Pagination = ({ totalPages = 0, goToPage, activePage }: Props) => {
  const paginationItems = Array.from(Array(totalPages).keys());
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
  return (
     <div className="pagination-container">
       {paginationItems.map(item => (
@@ -20,6 +24,10 @@ const Pagination = ({ totalPages = 0, goToPage, activePage }: Props) => {
         {item + 1}
       </button>
       ))}
+<<<<<<< HEAD
+=======
+      
+>>>>>>> 2885c4b22b4e3396b01ef14c693d153c76e916fc
     </div>
   );
 }
