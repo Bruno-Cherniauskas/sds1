@@ -23,6 +23,7 @@ const initialPieData = {
 
 const BASE_URL = 'https://sds1-brunocherniauskas.herokuapp.com';
 
+
 const Charts = () => {
     const [barChartData, setBarChartData] = useState<BarChartData[]>([]);
     const [platformData, setPlatformData] = useState<PieChartData>(initialPieData);
